@@ -36,3 +36,9 @@ print (emp_1.raise_amount)
 print(emp_2.raise_amount)
 print(emp_2.__dict__)
 #print(Employee.__dict__)
+
+first,last,pay=emp_str_1.split('-')
+
+
+
+emp_str_1=''
